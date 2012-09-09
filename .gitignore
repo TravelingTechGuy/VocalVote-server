@@ -1,3 +1,6 @@
+.DS_Store
+.bundle
+
 lib-cov
 *.seed
 *.log
